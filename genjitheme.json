@@ -1,7 +1,7 @@
 {
   "name": "Landslide (Genji Modified)",
   "version": "6.6.6",
-  "description": "Purple-grey comfy theme (really nice)",
+  "description": "Landslide theme modified (in testing)",
   "authors": [
     {
       "name": "Fel1x#0666",
@@ -152,7 +152,7 @@
     "CHAT_GREY": "#1a1926"
   },
   "background": {
-    "blur": 1,
+    "blur": 0,
     "url": "https://cdn.discordapp.com/attachments/1040095885410959373/1040095939903369216/genji2.jpg",
     "alpha": 1.0
   }
